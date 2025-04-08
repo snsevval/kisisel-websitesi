@@ -9,10 +9,9 @@ Merhaba! Ben Şevval San. Bu proje, kendi kişisel portföy sitemi oluşturmak a
 - Gelecekte eklenebilir referanslar / projeler bölümü
 
 ## 🛠️ Kullanılan Teknolojiler
-
 - HTML5
 - CSS3 (Flexbox ve responsive tasarım)
--JavaScript (responsive menü, scroll-top butonu, vb.)
+- JavaScript (responsive menü, scroll-top butonu, vb.)
 - Google Fonts (Poppins),Boxicons (ikonlar için)
 
 
